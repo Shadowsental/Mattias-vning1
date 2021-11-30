@@ -3,6 +3,10 @@ using System.Collections.Generic;
 
 namespace MattiasÖvning1
 {
+
+    //uppgift 1: Jag har använt mig av en klass för projektet. Men efter jag blev klar med koden så inser jag att jag behövde kanske en extra klass för att få allt att funka. En klass som kanske lagrar all information och en klass för att köra själva applikationen.
+
+    //uppgift 2: De metoder jag tycker borde användas är en Array, för att lagra de anstälda. Jag använda mig av strings för att skriva när de anställdas namn och lön, samt en string som sätter ihop all information.
     class Program
     {
         static void Main(string[] args)
